@@ -1,6 +1,6 @@
 import CssBaseline from "@mui/material/CssBaseline";
-import AppBar from "./components/AppBar/AppBar";
-import ThemeWrapper from "./components/ThemeWrapper/ThemeWrapper";
+import { AppBar } from "@/components/AppBar";
+import { ThemeWrapper } from "@/components/ThemeWrapper";
 
 const App = () => {
 	return (
